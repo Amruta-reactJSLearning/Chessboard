@@ -1,6 +1,9 @@
 # Chessboard
-Implement chessboard using React Js .
-Install Node JS
+This Project is a Simple ReactJS Project which demonstrates the following
+
+Creating a Chessboard Component in React.
+Dyanamic row and column value is accepted here for chessboard creation
+first Install Node JS
 Refer to https://nodejs.org/en/ to install nodejs
 
 Install create-react-app
